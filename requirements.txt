@@ -1,0 +1,5 @@
+Flask==2.0.1
+pysnmp==4.4.12
+Plotly==5.1.0
+Flask-Login==0.5.0
+SQLAlchemy==1.4.27
